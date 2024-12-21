@@ -9,7 +9,6 @@ class Node {
   int value;
   Node* next;
 };
-
 int main() {
   Node* head;
   Node* one = NULL;
