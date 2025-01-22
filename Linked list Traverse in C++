@@ -3,6 +3,7 @@
 #include <iostream>
 using namespace std;
 
+
 // Create a node
 struct Node {
   int data;
